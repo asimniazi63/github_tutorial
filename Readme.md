@@ -105,3 +105,6 @@ git fetch origin
 git status
 git pull
 ```
+
+about merging origin/master
+https://www.w3schools.com/GIT/git_pull_from_remote.asp
