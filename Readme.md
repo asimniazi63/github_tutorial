@@ -98,3 +98,10 @@ push code to main branch
 ```
 git push -u origin main
 ```
+
+- Pull from Github branch
+```
+git fetch origin
+git status
+git pull
+```
