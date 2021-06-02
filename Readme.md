@@ -64,3 +64,37 @@ commit modified changes
 ```
 git commit -a -m "Updated Readme.md"
 ```
+
+- Push to Github
+-- Branching
+
+To add master branch:
+```
+git branch -M main
+```
+
+To create new branch:
+```
+git branch development
+```
+
+checkout is the command used to check out a branch. Moving us from the current branch, to the one specified at the end of the command:
+```
+git checkout hello-world-images
+```
+
+-- Branch Merging
+
+add later on
+
+- Push to github Branch
+
+- add repo:
+```
+git remote add origin https://github.com/asimniazi63/github_tutorial.git
+```
+
+push code to main branch
+```
+git push -u origin main
+```
