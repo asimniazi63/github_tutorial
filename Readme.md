@@ -80,7 +80,7 @@ git branch development
 
 checkout is the command used to check out a branch. Moving us from the current branch, to the one specified at the end of the command:
 ```
-git checkout hello-world-images
+git checkout development
 ```
 
 -- Branch Merging
